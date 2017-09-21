@@ -31,7 +31,7 @@ http.createServer((req, res) => {
 console.log('Server running at http://localhost:9090/');
 ```
 
-Finaly run
+Finally run:
 
 ```bash
 $ npm start
