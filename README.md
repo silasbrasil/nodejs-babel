@@ -36,3 +36,5 @@ Finally run:
 ```bash
 $ npm start
 ```
+
+* Example with Express JS on `index.js`
